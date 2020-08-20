@@ -2,7 +2,6 @@
 
 Project for Data Science 100 course
 
-## Administrative Subdivisions of Taiwan
+## Administrative Subdivisions of Cambodia
 
-![](Subdivision_types_of_the_Republic_of_China_(2014).svg.png)
-
+![](Cambodia,_administrative_divisions_-_de_-_colored,_2013.svg.png)
