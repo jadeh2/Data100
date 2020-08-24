@@ -2,4 +2,4 @@
 
 Index for Data Science 100 course
 
-[exercise1](practice1.md)
+[Exercise1](practice1.md)
