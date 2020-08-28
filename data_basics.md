@@ -1,6 +1,6 @@
 # Data Management Basics
 
-#Bar Graphs 
+# Bar Graphs 
 
 ![Total Population](population.pdf)
 
