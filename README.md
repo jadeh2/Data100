@@ -1,7 +1,7 @@
 # Wicked Problems
 
 Bio
-Hi, my name is Jade Haas and I'm from Northern Virginia, more specifically Centreville. My interests include reading, drawing, and playing tennis. As of now, I am undecided for my major, but I am open to taking new and interesting classes and am looking forward to learning more about data science. 
+Hi, my name is Jade Haas and I'm from Northern Virginia, more specifically Centreville. My interests include reading, drawing, and playing tennis. As of now, my major is undecided, but I am open to taking new and interesting classes and am looking forward to learning more about data science. 
 
 Index for Data Science 100 course 
 
