@@ -9,3 +9,5 @@ Index for Data Science 100 course
 
 [Exercise 2](practice2.md)
 
+[Data Management Basics](data_basics.md)
+
