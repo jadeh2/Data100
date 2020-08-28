@@ -2,10 +2,10 @@
 
 # Bar Graphs 
 
-![Total Population](population.pdf)
+![Total Population](total_population.png)
 
-![Population Totals](Rplot.pdf)
+![Population Totals](population_totals.png)
 
-![Total Population By Men & Women](total_population_menwomen.pdf)
+![Total Population By Men & Women](total_pop_by_menwomen.png)
 
 
