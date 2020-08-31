@@ -13,7 +13,7 @@ To create these bar graphs for this assignment, I had to import two sets of data
 
 ![Percent Difference in Females](percentdiff_female.png)
 
-!(Population Density in km2)(https://github.com/jadeh2/Data100/blob/master/population_density.png)
+!(Population Density in km2)(population_density.png)
 
 
 
