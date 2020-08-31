@@ -9,5 +9,9 @@ To create these bar graphs for this assignment, I had to import two sets of data
 
 ![Total Population By Men & Women](total_pop_by_menwomen.png)
 
+![Population Difference](population_difference.png)
+
+![Percent Difference in Females](percentdiff_female.png)
+
 
 
