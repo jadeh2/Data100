@@ -17,8 +17,13 @@ To create these bar graphs for this assignment, I had to import two sets of data
 
 # Bar Graphs Part 2
 To create these bar graphs, I imported two sets of data (one that described the admissions and the test scores while the other described the colleges and universities). I then then had to create the plots with according to the regions and subset the data to filter out the colleges that were not 4 year colleges or doctorate colleges to get the total admitted students and total enrolled students. 
+
+## 4 Year Colleges 
 ![4 Year Colleges Total Admissions](4_yr_college_plot.png)
+
+## Doctorate Colleges
 ![Doctorate Colleges Total Enrolled](doc_colls_plot.png)
+![Doctorate Colleges Total Admissions](ttl_apps_doc_colls_plot.png)
 
 
 
