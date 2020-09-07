@@ -11,3 +11,4 @@ Index for Data Science 100 course
 
 [Data Management Basics](data_basics.md)
 
+[Data Science Reflections](data_science_reflections.md)
