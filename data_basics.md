@@ -20,14 +20,20 @@ To create these bar graphs, I imported two sets of data (one that described the 
 
 ## 4 Year Colleges 
 ![4 Year Colleges Total Applicants](ttl_apps_college_plot.png)
+
 This is a graph of total applicants(x-axis) that applied to 4 year colleges according to region(y-axis). 
+
 ![4 Year Colleges Total Enrolled](ttl_enrolled_college_plot.png)
+
 This is a graph of total students enrolled(x-axis) that applied to 4 year colleges according to region(y-axis). 
 
 ## Doctorate Colleges
 ![Doctorate Colleges Total Applicants](ttl_apps_doc_plot.png)
+
 This is a graph of total students applied(x-axis) that applied to a doctorate offering institution according to region(y-axis).
+
 ![Doctorate Colleges Total Enrolled](ttl__enrolled_doc_plot.png)
+
 This is a graph of total students enrolled(x-axis) that applied to a doctorate offering institution according to region(y-axis).
 
 
