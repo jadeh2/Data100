@@ -16,15 +16,19 @@ To create these bar graphs for this assignment, I had to import two sets of data
 ![Population Density in km2](population_density.png)
 
 # Bar Graphs Part 2
-To create these bar graphs, I imported two sets of data (one that described the admissions and the test scores while the other described the colleges and universities). I then then had to create the plots with according to the regions and subset the data to filter out the colleges that were not 4 year colleges or doctorate colleges to get the total admitted students and total enrolled students. 
+To create these bar graphs, I imported two sets of data (one that described the admissions and the test scores while the other described the colleges and universities). I then then had to create the plots with according to the regions and subset the data to filter out the colleges that were not 4 year colleges or doctorate colleges to get the total students applied and total students enrolled. 
 
 ## 4 Year Colleges 
-![4 Year Colleges Total Admissions](4_yr_college_plot.png)
-![4 Year Colleges Total Enrolled](4_yr_ttl_enrolled_plot.png)
+![4 Year Colleges Total Applicants](ttl_apps_college_plot.png)
+This is a graph of total applicants(x-axis) that applied to 4 year colleges according to region(y-axis). 
+![4 Year Colleges Total Enrolled](ttl_enrolled_college_plot.png)
+This is a graph of total students enrolled(x-axis) that applied to 4 year colleges according to region(y-axis). 
 
 ## Doctorate Colleges
-![Doctorate Colleges Total Enrolled](doc_colls_plot.png)
-![Doctorate Colleges Total Admissions](ttl_apps_doc_colls_plot.png)
+![Doctorate Colleges Total Applicants](ttl_apps_doc_plot.png)
+This is a graph of total students applied(x-axis) that applied to a doctorate offering institution according to region(y-axis).
+![Doctorate Colleges Total Enrolled](ttl__enrolled_doc_plot.png)
+This is a graph of total students enrolled(x-axis) that applied to a doctorate offering institution according to region(y-axis).
 
 
 
