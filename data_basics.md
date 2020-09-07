@@ -20,6 +20,7 @@ To create these bar graphs, I imported two sets of data (one that described the 
 
 ## 4 Year Colleges 
 ![4 Year Colleges Total Admissions](4_yr_college_plot.png)
+![4 Year Colleges Total Enrolled](4_yr_ttl_enrolled_plot.png)
 
 ## Doctorate Colleges
 ![Doctorate Colleges Total Enrolled](doc_colls_plot.png)
