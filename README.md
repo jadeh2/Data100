@@ -12,3 +12,5 @@ Index for Data Science 100 course
 [Data Management Basics](data_basics.md)
 
 [Data Science Reflections](data_science_reflections.md)
+
+[Data Management Fundamentals- Project 2(data_management_fundamentals_proj2.md)
