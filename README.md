@@ -8,9 +8,12 @@ Index for Data Science 100 course
 
 [Exercise 2](practice2.md)
 
+## Projects
+
 [Data Management Basics](data_basics.md)
 
+[Data Fundamentals](proj2.md)
+
+## Reflections
+
 [Data Science Reflections](data_science_reflections.md)
-
-[Project 2](proj2.md)
-
