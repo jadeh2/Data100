@@ -12,3 +12,5 @@ Index for Data Science 100 course
 
 [Data Science Reflections](data_science_reflections.md)
 
+[Project 2](proj2.md)
+
