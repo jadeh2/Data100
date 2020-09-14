@@ -1,4 +1,4 @@
-# Data Management Basics
+# Data Management Basics (Project 1)
 
 # Bar Graphs Part 1
 To create these bar graphs for this assignment, I had to import two sets of data pertaining to the population and dmographics of Liberia and one from a remote data set and the other from a source data set. Using R, the plots I had to create consist of a y-axis (number of people) and x-axis (names of the counties).
