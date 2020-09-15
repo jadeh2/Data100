@@ -7,6 +7,6 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ![Plot2](plot_new_4_ttl.png)
 
-### Stretch Goal 
+### Stretch Goals 
 
 ![stretchgoal_plot](9quartiles_3by3_stretchgoal_plot.png)
