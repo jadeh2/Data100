@@ -16,3 +16,5 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ![Plot1](abs_pop_plot.png)
 
+![Plot2](avg_annual_plot.png)
+
