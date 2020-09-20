@@ -13,9 +13,9 @@ Hi, my name is Jade Haas and I'm from Northern Virginia, more specifically Centr
 
 ### Projects
 
-[Data Management Basics](data_basics.md)
+[Project 1](data_basics.md)
 
-[Data Fundamentals](proj2.md)
+[Project 2](proj2.md)
 
 ### Reflections
 
