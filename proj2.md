@@ -13,3 +13,6 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 ![stretchgoal_plot](9quartiles_3by3_stretchgoal_plot.png)
 
 ## Part2
+
+![Plot1](abs_pop_plot.png)
+
