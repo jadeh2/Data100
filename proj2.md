@@ -18,11 +18,19 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ## Part2
 
+### Example Stock
+
 ![Plot1](stocks_plot_1.png)
+
+#### Model Summary
 
 ![text](stocks.txt)
 
+### Own Stocks
+
 ![Carsplot](delt_5predictor_car_plot.png)
+
+##### Model Summary 
 
 
 
