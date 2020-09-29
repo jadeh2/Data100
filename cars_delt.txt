@@ -1,0 +1,33 @@
+
+quantmod object:   lm1601345276.86555 	Build date:  2020-09-28 22:07:56 
+
+Model Specified: 
+     Delt(Next(Cl(NKLA))) ~ Delt(Cl(NIO)) + Delt(Cl(TSLA)) + Delt(Cl(BMWYY)) +   Cl(VWAGY) 
+
+Model Target:  Delt.Next.Cl.NKLA 		 Product:  NKLA 
+Model Inputs:  Delt.Cl.NIO, Delt.Cl.TSLA, Delt.Cl.BMWYY, Cl.VWAGY 
+
+Fitted Model: 
+
+	Modelling procedure:  lm 
+	Training window:  42  observations from  2020-01-28 to 2020-03-26
+
+Call:
+lm(formula = quantmod@model.formula, data = training.data)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.141840 -0.013016 -0.004481  0.007241  0.271912 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)
+(Intercept)   -0.0062116  0.0549780  -0.113    0.911
+Delt.Cl.NIO    0.0001014  0.1886378   0.001    1.000
+Delt.Cl.TSLA   0.0902207  0.1256166   0.718    0.477
+Delt.Cl.BMWYY -0.1589362  0.2184239  -0.728    0.471
+Cl.VWAGY       0.0004556  0.0033377   0.137    0.892
+
+Residual standard error: 0.05674 on 37 degrees of freedom
+Multiple R-squared:  0.02287,	Adjusted R-squared:  -0.08276 
+F-statistic: 0.2165 on 4 and 37 DF,  p-value: 0.9276
+
