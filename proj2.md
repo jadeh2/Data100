@@ -22,4 +22,8 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ![text](stocks.txt)
 
+![Carsplot](delt_5predictor_car_plot.png)
+
+
+
 
