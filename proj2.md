@@ -24,38 +24,6 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 #### Model Summary
 
-quantmod object:   lm1601345807.26517 	Build date:  2020-09-28 22:16:47 
-
-Model Specified: 
-     Next(Cl(FB)) ~ Cl(GOOGL) + Cl(AAPL) 
-
-Model Target:  Next.Cl.FB 		 Product:  FB 
-Model Inputs:  Cl.GOOGL, Cl.AAPL 
-
-Fitted Model: 
-
-	Modelling procedure:  lm 
-	Training window:  64  observations from  2015-08-28 to 2015-11-27
-
-Call:
-lm(formula = quantmod@model.formula, data = training.data)
-
-Residuals:
-    Min      1Q  Median      3Q     Max 
--4.3932 -1.6026  0.0731  1.2975  6.1469 
-
-Coefficients:
-            Estimate Std. Error t value Pr(>|t|)    
-(Intercept) 2.067544   8.836870   0.234    0.816    
-Cl.GOOGL    0.127642   0.008134  15.692   <2e-16 ***
-Cl.AAPL     0.243572   0.431955   0.564    0.575    
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-Residual standard error: 2.054 on 61 degrees of freedom
-Multiple R-squared:  0.9113,	Adjusted R-squared:  0.9083 
-F-statistic: 313.2 on 2 and 61 DF,  p-value: < 2.2e-16
-
 
 ### Own Stocks
 
