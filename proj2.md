@@ -28,7 +28,7 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ### Own Stocks
 
-![Carsplot](delt_5predictor_car_plot.png)
+![Carsplot](5predictor_plot_cars.png)
 
 ##### Model Summary 
 
