@@ -26,7 +26,7 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 #### Deliverable 2 (Model Summary)
 
-![modelsummary](screen_shot_cars_model_summ.png)
+![modelsummary]()
 
 
 
