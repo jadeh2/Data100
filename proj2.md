@@ -20,7 +20,7 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ## Part 2
 
-For part 2 of this project I wanted to look into how the stocks differ among major electric car companies or companies that sell electric vehicles; therefore, I decided to analyze stocks from Tesla, Nikola, Nio, BMW, and Volkswagon. I created the models to predict the stocks of Nikola (response variable), using the current stock prices of the other companies as the predictors. 
+For part 2 of this project I wanted to look into how the stocks differ among major electric car companies or companies that sell electric vehicles, especially with the rise of promotions for zero emission cars to encourage less pollution. Therefore, I decided to analyze stocks from Tesla, Nikola, Nio, BMW, and Volkswagon. I created the models to predict the stocks of Nikola (response variable), using the current stock prices of the other companies as the predictors. 
 ### Deliverable 1 (Plot)
 
 ![Carsplot](5predictor_plot_cars.png)
