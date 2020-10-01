@@ -39,13 +39,13 @@ For part 3 of project 2 I created a bar graph and line graph analyzing the retur
 ### Deliverable 1 (Bar Graph)
 This bar graph reveals that the monthly returns of these stocks started off low in 2019; however, an upward trend began in the beginning of 2020. 
 
-![bargraph]
+![bargraph](bargraph_part3.png)
 
 
 ### Deliverable 2 (Line Plot) 
 This line graph reveals that the monthly portoflio value when investing $10000 is generally positive. The portfolio value is static in the year of 2019; however, the value spikes in numbers in the middle of 2020, going from $10,000 to $25,000 in the months of May and July.
 
-![linegraph]
+![linegraph](linegraph_part3.png)
 
 
 
