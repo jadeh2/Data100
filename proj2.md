@@ -4,6 +4,8 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ## Part 1
 
+### Deliverable 
+
 ![Plot](3year_plot_all_states.png)
 
 ![Plot2](plot_new_4_ttl.png)
@@ -18,18 +20,12 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ## Part2
 
-### Example Stock
-
-![Plot1](stocks_plot_1.png)
-
-#### Model Summary
-
-
-### Own Stocks
+### Deliverable 1 (Plot)
 
 ![Carsplot](5predictor_plot_cars.png)
 
-##### Model Summary 
+#### Deliverable 2 (Model Summary)
+
 
 
 
