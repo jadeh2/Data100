@@ -25,9 +25,19 @@ For part 2 of this project I wanted to look into how the stocks differ among maj
 
 ![Carsplot](5predictor_plot_cars.png)
 
-#### Deliverable 2 (Model Summary)
+### Deliverable 2 (Model Summary)
 
 ![modelsummary](screen_shot_cars_modelsumm.png)
+
+## Part 3
+
+
+### Deliverable 1 (Bar Graph)
+
+
+### Deliverable 2 (Line Plot) 
+
+
 
 
 
