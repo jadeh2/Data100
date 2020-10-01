@@ -4,7 +4,7 @@ To create this plot, I had to first obtain data from the Federal Census Bureau u
 
 ## Part 1
 
-### Deliverable 
+### Deliverables
 
 ![Plot](3year_plot_all_states.png)
 
