@@ -41,11 +41,19 @@ This bar graph reveals that the monthly returns of these stocks started off low 
 
 ![bargraph](bargraph_part3.png)
 
-
 ### Deliverable 2 (Line Plot) 
 This line graph reveals that the monthly portoflio value when investing $10000 is generally positive. The portfolio value is static in the year of 2019; however, the value spikes in numbers in the middle of 2020, going from $10,000 to $25,000 in the months of May and July.
 
 ![linegraph](linegraph_part3.png)
+
+### Stretch Goals
+In these graphs I decided to stocks within the entertainment industry. The companies I chose to analyze were Netflix, Sony, Disney, Comcast, Spotify, and Toei Animation. 
+
+#### Bar Graph
+![bargraph](stretchgoal_part3_bargraph.png)
+
+#### Line Graph
+![linegraph](stretchgoal_part3_linegraph.png)
 
 
 
