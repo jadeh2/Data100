@@ -12,6 +12,9 @@ Ultimately, k-means clustering is a very effective and versatile algorithm that 
 
 ## Works Cited
 Raghupathi, K. (2019, May 23). 10 Interesting Use Cases for the K-Means Algorithm - DZone AI. Retrieved September 23, 2020, from https://dzone.com/articles/10-interesting-use-cases-for-the-k-means-algorithm
+
 Jain, V., Bhatia, A., Sharma, Y., & Arora, V. (2017). Crime Prediction using K-means Algorithm. GRD Journals- Global Research and Development Journal for Engineering, 2(5).
+
 Kaushik, S. (2020, July 05). Clustering: Types Of Clustering: Clustering Applications. Retrieved September 23, 2020, from https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/
+
 Gowrisangar, K. (2018, July 11). Basics of K-Means Clustering. Retrieved September 23, 2020, from https://medium.com/@kulasangar/basics-of-k-means-clustering-f58e9be5c0c0
