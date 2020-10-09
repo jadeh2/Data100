@@ -16,5 +16,8 @@ Shows Laos' most populous province (Savannakhet) along with how the districts ar
 Shows Laos side by side with some of its most population dense areaa. 
 ![detail](detailab_laos.png) 
 
+[Detail A]
+[Detail B]
+
 
 
