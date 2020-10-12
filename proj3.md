@@ -10,9 +10,17 @@ Shows Laos as a whole along with the country's 17 provinces and it's respective 
 
 ## Stretch Goals
 
+### Stretch Goal 1
+
+![geoboundariesmap](laos_geoboundaries.png)
+
+### Stretch Goal 2
+
 Shows Laos' most populous province (Savannakhet) along with how the districts are divided. 
 
 ![mapstretch](savannakhét.png)
+
+### Stretch Goal 3
 
 Shows Laos side by side with some of its most population dense areaa. 
 
