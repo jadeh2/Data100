@@ -2,6 +2,8 @@
 
 ## Challenge Question
 
+To create this plot of Laos I had to first download the raster from WorldPop. From WorldPop, I downloaded Laos' population density by its political boundaries (provinces-adm1) and further subdivisions (districts-adm2). From the raster, I imported its data into R and created a visual representation of Laos' population density, red being very dense and yellow being less dense. 
+
 ![challenge](lao_pop.png)
 
 ## Stretch Goals
