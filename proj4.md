@@ -20,6 +20,7 @@ To create this plot of Laos I had to first download the raster from WorldPop. Fr
 
 ![stretchgoal3](ezgif.com-gif-maker.gif)
 
+
 # Creating a Geometric Bar Plot with your Simple Feature object
 
 ## Deliverable 2
