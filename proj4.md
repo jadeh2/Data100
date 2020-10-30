@@ -22,9 +22,16 @@ To create this plot of Laos I had to first download the raster from WorldPop. Fr
 
 # Creating a Geometric Bar Plot with your Simple Feature object
 
-## Deliverable 1
+## Deliverable 2
+
+![deliverable](laos_lab5.png)
 
 ## Stretch Goals 
+
+### Stretch Goal 1
+
+![stretchgoal](lao_adm2_bp.png)
+
 
 
 
