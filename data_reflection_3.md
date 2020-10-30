@@ -1,4 +1,4 @@
-# Data Science Reflectionn 3
+# Data Science Reflection 3
 
 ## Machine Learning and Recommender Engines in Streaming Sites
 
