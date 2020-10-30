@@ -12,8 +12,6 @@ Machine learning, deep learning, and artificial intelligence has significantly a
 
 ## Works Cited 
 
-D'Souza, J. (2018, March 22). A Trip to Random Forest... Retrieved October 30, 2020, from https://medium.com/greyatom/a-trip-to-random-forest-5c30d8250d6a
-
 Agrawal, P., Cao, L., Chang, Y., Jackson, G., Kefayati, S., Pavuluri, V., . . . Zhong, Y. (2019, June 01). 280-OR: Machine Learning to Predict Hypoglycemic Events from Continuous Glucose Monitoring Data. Retrieved October 30, 2020, from https://diabetes.diabetesjournals.org/content/68/Supplement_1/280-OR
 
 Wexler, Y., Goldner, D., Merchant, G., Hirsch, A., Huddleston, B., &amp; Dachis, J. (2020, June 01). 14-LB: Overnight Hypoglycemia Prediction for CGM Users. Retrieved October 30, 2020, from https://diabetes.diabetesjournals.org/content/69/Supplement_1/14-LB?utm_source=TrendMD
@@ -21,3 +19,5 @@ Wexler, Y., Goldner, D., Merchant, G., Hirsch, A., Huddleston, B., &amp; Dachis,
 Woldaregay, A., Årsand, E., Walderhaug, S., Albers, D., Mamykina, L., Botsis, T., &amp; Hartvigsen, G. (2019, July 26). Data-driven modeling and prediction of blood glucose dynamics: Machine learning applications in type 1 diabetes. Retrieved October 30, 2020, from https://www.sciencedirect.com/science/article/pii/S0933365717306218
 
 Seo, W., Lee, Y., Lee, S., Jin, S., &amp; Park, S. (2019). A machine-learning approach to predict postprandial hypoglycemia. BMC Medical Informatics and Decision Making, 19(1). doi:10.1186/s12911-019-0943-4
+
+D'Souza, J. (2018, March 22). A Trip to Random Forest... Retrieved October 30, 2020, from https://medium.com/greyatom/a-trip-to-random-forest-5c30d8250d6a
