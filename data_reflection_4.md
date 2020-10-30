@@ -1,6 +1,6 @@
 # Data Science Reflection 4
 
-## Random Forest Algorithm in Medicine 
+## Machine Learning in Medicine 
 
 The random forest algorithm is a tree-based method, or ensemble method, that is categorized as a supervised machine learning algorithm. The random forest algorithm consists of many decision trees (a diagram that demonstrates numerous outcomes from a series of decisions) and is used in predictive analytics. This algorithm utilizes bagging and feature randomness to create many uncorrelated decision trees in order to generate more accurate predictions and some of its advantages are that it can employ both classification (used in categorical data) and regression (used in continuous/ numerical data) tasks, handle large datasets, and accommodate missing or erroneous data values while maintaining accuracy. Due to the fact that the random forest method is relatively straightforward, this method is ubiquitous in nature and some of its applications include stock market price predictions, remote sensing, and object detection. 
 
