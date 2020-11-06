@@ -21,6 +21,8 @@ Hi, my name is Jade Haas and I'm from Northern Virginia, more specifically Centr
 
 [Project 4](proj4.md)
 
+[Project 5](proj5.md)
+
 ### Reflections
 
 [Data Science Reflections](data_science_reflections.md)
