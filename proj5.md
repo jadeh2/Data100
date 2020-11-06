@@ -1,6 +1,6 @@
 # Acquiring, Modifying, and Describing the Data (Project 5)
 
-To create these histograms and regressions models, I retrieved and imported data from the Worldpop website describing the geography of Laos. With this data, I created histograms describing how the land cover is affected by the population and also created linear models describing again how the population correlates with the geography of Laos. 
+To create these histograms and regressions models, I retrieved and imported data from the Worldpop website describing the geography (land use and land cover) of Laos. With this data, I created histograms describing how the land cover is affected by the population and also created linear models describing again how the population correlates with the geography of Laos. 
 
 ## Deliverables
 ### Histograms 
@@ -26,6 +26,8 @@ Describes the correlation between the night time lights and the population in La
 ![linear2](pop_grassland_linear.png)
 
 Describes the correlation between the grasslands and the population in Laos
+
+#### Stretch Goal
 
 ![stretchgoal](linearmodel_stretchgoal.png)
 
