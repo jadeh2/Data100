@@ -18,5 +18,5 @@
 
 ## Individual/Group Deliverable 
 
-
+![3dplot](3d_ch.png)
 
